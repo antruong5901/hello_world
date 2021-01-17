@@ -1,3 +1,3 @@
 # hello_world
-My first repository ever
+My first repository
 I'm about to change some sheet around here :) very first time ever DUH...
